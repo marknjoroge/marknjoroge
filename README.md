@@ -1,5 +1,5 @@
 ### Hello 👋
-Welcome to my repository.
+Welcome to my account.
 I am Mark Njoroge.
 <!--
 **marknjoroge/marknjoroge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
