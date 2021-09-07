@@ -8,7 +8,7 @@ Feel free to look around.
   <table>
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=JoelKanyi&count_private=true&show_icons=true&theme=dark&layout=compact" /></td>
-        <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoelKanyi&hide=html&layout=compact&theme=dark" /></td>      
+        <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marknjoroge&hide=html&layout=compact&theme=dark" /></td>      
     </tr>   
   </table>
 </center>
