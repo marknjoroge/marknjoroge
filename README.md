@@ -1,7 +1,7 @@
 ### Hello 👋
 Greetings.
-I am Mark Njoroge and this is my account.
-I am an aspiring software engineer in love with `flutter` and `java`.
+I am Mark Njoroge and this is my account. <br/>
+I am an aspiring software engineer in love with `flutter` and `java`. <br/>
 Feel free to look around.
 <br/>
 | my | stats |
