@@ -6,7 +6,7 @@ Feel free to look around.
 <br/>
 | my | stats |
 | :-- | --: |
-|<img height="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=marknjoroge&count_private=true&show_icons=true&theme=merko&layout=compact" /> | <img height="400px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marknjoroge&hide=html&layout=compact&theme=dark" /> |
+|<img height="200px" align="left" src="https://github-readme-stats.vercel.app/api?username=marknjoroge&count_private=true&show_icons=true&theme=merko&layout=compact" /> | <img height="200px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marknjoroge&hide=html&layout=compact&theme=dark" /> |
 <!--
 **marknjoroge/marknjoroge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
