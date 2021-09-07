@@ -4,9 +4,8 @@ I am Mark Njoroge and this is my account.
 I am an aspiring software engineer in love with `flutter` and `java`.
 Feel free to look around.
 <br/>
-| | |
 | :-- | --: |
-|<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=marknjoroge&count_private=true&show_icons=true&theme=merko&layout=compact" /> | <img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marknjoroge&hide=html&layout=compact&theme=dark" /> |
+|<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=marknjoroge&count_private=true&show_icons=true&theme=merko&layout=compact" /> | <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marknjoroge&hide=html&layout=compact&theme=dark" /> |
 <!--
 **marknjoroge/marknjoroge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
