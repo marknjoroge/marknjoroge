@@ -1,6 +1,8 @@
 ### Hello 👋
 Greetings.
-I am Mark Njoroge.
+I am Mark Njoroge and this is my account.
+I am an aspiring software engineer in love with `flutter` and `java`.
+Feel free to look around.
 <!--
 **marknjoroge/marknjoroge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
