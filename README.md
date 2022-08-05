@@ -1,7 +1,7 @@
 ### Hello 👋
 Greetings.
 I am Mark Njoroge and this is my account. <br/>
-Portfolio :: [My Portfolio](https://marknjoroge.github.io)
+[Portfolio :: https://marknjoroge.github.io ](https://marknjoroge.github.io)
 I am an aspiring software engineer in love with `flutter` and `java`. <br/>
 Feel free to look around.
 <br/>
