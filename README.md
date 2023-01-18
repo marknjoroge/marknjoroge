@@ -1,13 +1,15 @@
-### Hello 👋
-Greetings.
-I am Mark Njoroge and this is my account. <br/>
-[Portfolio :: https://marknjoroge.github.io ](https://marknjoroge.github.io)
-I am an aspiring software engineer in love with `flutter` and `java`. <br/>
+###👋
+Software engineer
+- `flutter` 
+- `java`
+- `react`
+- `express` <br/>
+[Portfolio](https://marknjoroge.github.io)
 Feel free to look around.
 <br/>
-| my stats |
-| :-- |
-|<img height="200px" align="left" src="https://github-readme-stats.vercel.app/api?username=marknjoroge&count_private=true&show_icons=true&theme=merko&layout=compact" />| 
+<!-- | my stats |
+| :-- | -->
+<!-- |<img height="200px" align="left" src="https://github-readme-stats.vercel.app/api?username=marknjoroge&count_private=true&show_icons=true&theme=merko&layout=compact" />|  -->
 
 <!--
 **marknjoroge/marknjoroge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
