@@ -3,9 +3,9 @@ Software engineer
 - `flutter` 
 - `java`
 - `react`
-- `express` <br/>
+- `express`
+<br/>
 [Portfolio](https://marknjoroge.github.io)
-Feel free to look around.
 <br/>
 <!-- | my stats |
 | :-- | -->
