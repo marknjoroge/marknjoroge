@@ -7,6 +7,8 @@ Software engineer
 <br/>
 [Portfolio](https://marknjoroge.github.io)
 <br/>
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 <!-- | my stats |
 | :-- | -->
 <!-- |<img height="200px" align="left" src="https://github-readme-stats.vercel.app/api?username=marknjoroge&count_private=true&show_icons=true&theme=merko&layout=compact" />|  -->
